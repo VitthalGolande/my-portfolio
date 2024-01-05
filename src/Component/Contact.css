@@ -1,0 +1,20 @@
+.contact-item{
+    width: 30%;
+}
+.sp{
+    font-size: 3rem;
+	text-transform: uppercase;
+	color: white;
+	color: crimson;
+    
+}
+.section-title{
+    font-size: 3rem;
+	text-transform: uppercase;
+	color: black;
+}
+.contact-item{
+    border: 1px solid ;
+    margin: 5px;
+    border-radius: 15px;
+}

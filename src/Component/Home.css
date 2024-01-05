@@ -1,0 +1,12 @@
+.container{
+
+    display: flex;
+    border: 1px solid brown;
+}
+.sp{
+    
+font-size: 3rem;
+text-transform: uppercase;
+color: white;
+color: crimson;
+}
